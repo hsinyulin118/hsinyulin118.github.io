@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 toc: true
 
 paperurl: 'http://hsinyulin118.github.io/files/廣告專訪.pdf'
-author: 'Hsin-Yu Lin'
+course: N/A
 ---
 
 
@@ -20,7 +20,8 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-
+* Author: Hsin-Yu Lin
+* The content involved in-depth discussions with industry experts, providing insights into advertising careers and strategies
 
 <!--more-->
 
