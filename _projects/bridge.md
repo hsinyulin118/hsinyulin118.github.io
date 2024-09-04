@@ -1,6 +1,6 @@
 ---
-title: "A Bridge-based Compression Algorithm for Topological Quantum Circuits [DAC 2021] [TCAD 2022]"
-date: 2019-11-01
+title: "Test"
+date: 2030-11-01
 permalink: /projects/bridge
 excerpt_separator: <!--more-->
 toc: true
@@ -9,6 +9,7 @@ tags:
   - Electronic Design Automation Lab (Prof. Yao-Wen Chang)
   - Quantum
 paperurl: 'http://hsinyulin118.github.io/files/金融法規.pdf'
+course: testest
 ---
 
 
