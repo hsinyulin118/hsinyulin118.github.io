@@ -62,7 +62,7 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
  * The Effects of U.S. Interest Rate Changes on Global and Taiwan’s Economic Amid the Russia-Ukraine War
  * Financial Statement Analysis: ECPay
  * Strategy Analysis: Spotify
- * Singapore Exchange Limited (SGX)
+ * Introduction of Singapore Exchange Limited (SGX)
  * Business Analytics: Study of factors influencing subscription to Uber Eats membership
  * Career Column: Co-founder of FLA digital creative, Yu-Hu (WAWA)
 
@@ -76,7 +76,7 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
 
 ## Skills
 * Programming languages
-  * Python, MATLAB
+  * Python, MATLAB, GitHub
 * Data Analysis Toolkits 
   * Numpy, Pandas, Matplotlib, Seaborn, Statsmodels
 * Excel 
