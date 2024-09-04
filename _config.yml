@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hsin-Yu Lin"
 title_separator          : "-"
 name                     : &name "Hsin-Yu Lin"
-description              : &description "B.S. student at NTPU"
+description              : &description "B.S. in Business Administration at NTPU"
 url                      : https://hsinyulin118.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hsinyulin118.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hsin-Yu Lin"
   avatar           : "image_01.jpg"
-  bio              : "B.S. student at National Taipei University"
+  bio              : "B.S. in Business Administration at National Taipei University"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hsin-yu-lin"
+  linkedin         : "hsin-yu-lin-2b3202257"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
