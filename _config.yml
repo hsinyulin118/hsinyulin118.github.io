@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wan-Hsuan Lin"
+title                    : "Hsin-Yu Lin"
 title_separator          : "-"
-name                     : &name "Wan-Hsuan Lin"
-description              : &description "Ph.D. student at UCLA"
-url                      : https://wanhsuanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hsin-Yu Lin"
+description              : &description "B.S. student at NTPU"
+url                      : https://hsinyulin118.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wanhsuanlin.github.io"
+repository               : "hsinyulin118.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wan-Hsuan Lin"
-  avatar           : "IMG_9871.png"
-  bio              : "Ph.D. student at UCLA Computer Science Department"
-  location         : "Los Angeles, CA"
+  name             : "Hsin-Yu Lin"
+  avatar           : "image_01.jpg"
+  bio              : "B.S. student at National Taipei University"
+  location         : "Taipei, Taiwan"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : wanhsuanlin@ucla.edu
+  email            : melodylin920118@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100000367830498"
+  facebook         : "profile.php?id=100009130557054"
   foursquare       :
   github           : # "academicpages"
   google_plus      :
