@@ -1,13 +1,13 @@
 ---
-title: "A Bridge-based Compression Algorithm for Topological Quantum Circuits"
+title: "Career Column: Co-founder of FLA digital creative, Yu-Hu (WAWA)"
 collection: publications
 permalink: /publication/2021-DAC-Qroute
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-author: 'Chen-Hao Hsu, Wan-Hsuan Lin*, Wei-Hsiang Tseng, and Yao-Wen Chang'
-date: 2021-12-05
+author: 'Hsin-Yu Lin'
+date: 2022-11-14
 venue: 'Proceedings of ACM/IEEE Design Automation Conference (DAC)'
-link: 'https://ieeexplore.ieee.org/abstract/document/9586322'
-paperurl: 'http://wanhsuanlin.github.io/files/DAC21_QBridge.pdf'
+link: ''
+paperurl: 'http://hsinyulin118.github.io/files/廣告專訪.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
