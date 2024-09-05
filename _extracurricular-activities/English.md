@@ -24,7 +24,7 @@ location: "National Taiwan University, Taiwan"
 * Course Level: Advanced
 
 <!--more-->
-![Picture](/images/page-0001.jpg){:style="width:100%; max-width:600px;"}
+![Certificate](/images/page-0001.jpg){:style="width:100%; max-width:600px;"}
 
 ![Picture](/images/IMG_8993.jpeg){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
