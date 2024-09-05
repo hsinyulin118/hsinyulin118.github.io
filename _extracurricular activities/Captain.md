@@ -1,12 +1,11 @@
 ---
-title: "Career Column: Co-founder of FLA digital creative, Yu-Hu (WAWA)"
-date: 2022-11-14
-permalink: /extracurricular-activities/Career
+title: "Captain of Girls Basketball Team, Department of Business Administration"
+date: 2023-06-30
+permalink: /extracurricular-activities/Captain
 excerpt_separator: <!--more-->
 toc: true
 
-paperurl: 'http://hsinyulin118.github.io/files/Career-Column.pdf'
-course: N/A
+
 ---
 
 
@@ -20,11 +19,11 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-* Author: Hsin-Yu Lin
-* The content involved in-depth discussions with industry experts, providing insights into advertising careers and strategies
+* Period: 2022.03.01 - 2023.06.30
+* Led a team of 10+ athletes to success, securing two gold medals and one bronze medal in School-level competition.
 
 <!--more-->
-[Click me](http://hsinyulin118.github.io/files/Career-Column.pdf)
+![Picture](/images/IMG_7900.jpg){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
 
 
