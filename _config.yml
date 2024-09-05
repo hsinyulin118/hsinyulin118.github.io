@@ -181,7 +181,10 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  tests:
+  competition:
+    output: true
+    permalink: /:collection/:path/
+  extracurricular activities:
     output: true
     permalink: /:collection/:path/
 
