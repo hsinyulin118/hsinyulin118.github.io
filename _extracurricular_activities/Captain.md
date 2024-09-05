@@ -25,7 +25,7 @@ location: "National Taiwan University, Taiwan"
 * Led a team of 10+ athletes to success, securing two gold medals and one bronze medal in School-level competition.
 
 <!--more-->
-![Picture](/images/IMG_7900.jpg){:style="width:100%; max-width:600px;"}
+![Picture](/images/IMG_7900.JPG){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
 
 
