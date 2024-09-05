@@ -10,7 +10,7 @@ author_profile: true
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 {% for post in sorted_projects %}
   <!-- 调试输出：打印每个项目的日期 -->
-  <p>{{ post.date }}</p>
+  <!-- <p>{{ post.date }}</p> -->
   
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
