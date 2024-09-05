@@ -23,6 +23,7 @@ location: "National Taiwan University, Taiwan"
 * Developed expertise in cost analysis, market analysis, customer insights, and marketing strategies.
 
 <!--more-->
+![Picture](/images/picture_peakz.jpg){:style="width:100%; max-width:600px;"}
 ![Certificate](/images/peakz.jpg){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
 
