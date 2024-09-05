@@ -20,7 +20,8 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-* Through data collection and regression analysis, the study identifies key variables, such as coupon availability and increased order amounts, that significantly affect customer willingness to subscribe.[Click me →](http://hsinyulin118.github.io/files/Business_Analytics.pdf)
+* Through data collection and regression analysis, the study identifies key variables, such as coupon availability and increased order amounts, that significantly affect customer willingness to subscribe.
+[Click me](http://hsinyulin118.github.io/files/Business_Analytics.pdf)
 <!--more-->
 
 <!-- [More information here]() -->
