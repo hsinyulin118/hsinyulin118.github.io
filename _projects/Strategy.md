@@ -1,6 +1,6 @@
 ---
 title: "Strategy Analysis: Spotify"
-date: 2023-05-01
+date: 2024-05-23
 permalink: /projects/Strategy
 excerpt_separator: <!--more-->
 toc: true

@@ -1,6 +1,6 @@
 ---
 title: "Financial Statement Analysis: ECPay"
-date: 2023-12-01
+date: 2023-12-07
 permalink: /projects/financial
 excerpt_separator: <!--more-->
 toc: true

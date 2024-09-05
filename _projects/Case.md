@@ -1,6 +1,6 @@
 ---
 title: "Case Analysis: Tai Shin Holdings Acquisition of Chang Hwa Bank"
-date: 2024-06-01
+date: 2024-06-05
 permalink: /projects/Case
 excerpt_separator: <!--more-->
 toc: true

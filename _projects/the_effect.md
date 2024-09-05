@@ -1,6 +1,6 @@
 ---
 title: "The Effects of U.S. Interest Rate Changes on Global and Taiwan’s Economic Amid the Russia-Ukraine War"
-date: 2023-12-01
+date: 2023-12-20
 permalink: /projects/the_effect
 excerpt_separator: <!--more-->
 toc: true

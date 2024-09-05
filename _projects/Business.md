@@ -1,6 +1,6 @@
 ---
 title: "Business Analytics: Study of factors influencing subscription to Uber Eats membership"
-date: 2022-11-01
+date: 2022-5-30
 permalink: /projects/Business
 excerpt_separator: <!--more-->
 toc: true
