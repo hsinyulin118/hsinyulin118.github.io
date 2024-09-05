@@ -1,7 +1,7 @@
 ---
-title: "2024 L’Oreal Brandstorm"
-date: 2023-12-13
-permalink: /competitions/L’Oreal
+title: "2023 National E.SUN Bank Business Case Competition (Honorable Mention)"
+date: 2023-12-22
+permalink: /competitions/E.SUN
 excerpt_separator: <!--more-->
 toc: true
 
@@ -20,8 +20,8 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-* Designed a hair styling app, featuring hairstyle design and hair dyeing condition and fade forecastor, to reinvent the future of professional beauty through tech.
-* Developed user interface and performed market positioning to enhance user experience.
+* Proposed innovative concepts, e.g., multiple accounts, shared account, and carbon account, to enhance customer stickiness to the bank app and increase the cash flow of the bank.
+* Developed expertise in cost analysis, market analysis, customer insights, and marketing strategies.
 
 <!--more-->
 

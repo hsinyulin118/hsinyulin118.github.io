@@ -5,7 +5,7 @@ permalink: /competitions/L’Oreal
 excerpt_separator: <!--more-->
 toc: true
 ---
-![L’Oreal Brandstorm](assets/images/batch1_413.jpg)
+![L’Oreal Brandstorm](images/batch1_413.jpg)
 
 
 <!-- ---
