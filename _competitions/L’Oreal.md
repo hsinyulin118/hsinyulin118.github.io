@@ -4,6 +4,7 @@ date: 2023-12-13
 permalink: /competitions/L’Oreal
 excerpt_separator: <!--more-->
 toc: true
+image: /images/batch1_413.jpg
 ---
 
 
