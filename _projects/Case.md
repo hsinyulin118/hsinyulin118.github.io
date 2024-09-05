@@ -22,9 +22,9 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 * Analyzed the impact of the acquisition on the stock prices of both parties.
-* Analyzed the applicable financial regulations in the litigation process.[Click me](http://hsinyulin118.github.io/files/Case.pdf)
+* Analyzed the applicable financial regulations in the litigation process.
 <!--more-->
-
+[Click me](http://hsinyulin118.github.io/files/Case.pdf)
 <!-- [More information here]() -->
 
 

@@ -21,10 +21,10 @@ date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
 * Author: Hsin-Yu Lin
-* The content involved in-depth discussions with industry experts, providing insights into advertising careers and strategies[Click me](http://hsinyulin118.github.io/files/Career-Column.pdf)
+* The content involved in-depth discussions with industry experts, providing insights into advertising careers and strategies
 
 <!--more-->
-
+[Click me](http://hsinyulin118.github.io/files/Career-Column.pdf)
 <!-- [More information here]() -->
 
 

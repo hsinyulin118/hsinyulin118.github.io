@@ -20,10 +20,10 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-* Provided a comprehensive analysis of the Singapore Exchange Limited (SGX), focusing on its key futures products, the impact of COVID-19 on its operations, and recent developments in the derivatives market.[Click me](http://hsinyulin118.github.io/files/Introduction.pdf)
+* Provided a comprehensive analysis of the Singapore Exchange Limited (SGX), focusing on its key futures products, the impact of COVID-19 on its operations, and recent developments in the derivatives market.
 
-<!--more--
-
+<!--more-->
+[Click me](http://hsinyulin118.github.io/files/Introduction.pdf)
 <!-- [More information here]() -->
 
 

@@ -20,10 +20,10 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-* Conducted external and internal analysis to examine Spotify's strategic management approach.[Click me](http://hsinyulin118.github.io/files/Strategy_Management.pdf)
+* Conducted external and internal analysis to examine Spotify's strategic management approach.
 
 <!--more-->
-
+[Click me](http://hsinyulin118.github.io/files/Strategy_Management.pdf)
 <!-- [More information here]() -->
 
 
