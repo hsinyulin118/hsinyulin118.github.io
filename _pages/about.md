@@ -50,7 +50,7 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
 * Developed expertise in cost analysis, market analysis, customer insights, and marketing strategies.
 
 **Member of Academic Affairs Department, Business Administration Student Association**, Nov. 2021 - Jun. 2023
-* Organized two guest lectures on “How to be a Youtuber” and “Secret of Advertisement” and one advertisement strategy workshop for 50+ fellow students.
+* Organized two guest lectures on “How to be a Youtuber” and “Secret of Advertisement”  for 50+ fellow students.
 * Skilled in creating and designing advertisements, including developing compelling content and graphics to effectively promote products and services.
 
 **President, 2023 Finance Summit, AIESEC in Taiwan**, Oct. 2022 - Jan. 2023
