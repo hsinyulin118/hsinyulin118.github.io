@@ -22,7 +22,7 @@ location: "National Taiwan University, Taiwan"
 --- -->
 * Provided a comprehensive analysis of the Singapore Exchange Limited (SGX), focusing on its key futures products, the impact of COVID-19 on its operations, and recent developments in the derivatives market.
 
-<!--more-->
+<!--more--
 
 <!-- [More information here]() -->
 

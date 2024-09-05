@@ -57,14 +57,14 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
 * Finance Summit is one of the most important summits of AIESEC in Taiwan aiming at educating participants about finance and legality department in AIESEC.
 * Led a team of 10+ staff members to design courses and guided 30+ participants in engaging in various lectures, e.g., making a budget, accounting and preparing financial statement reports.
 
-## Projects
+<!-- ## Projects
  * Case Analysis: Tai Shin Holdings Acquisition of Chang Hwa Bank
  * The Effects of U.S. Interest Rate Changes on Global and Taiwan’s Economic Amid the Russia-Ukraine War
  * Financial Statement Analysis: ECPay
  * Strategy Analysis: Spotify
  * Introduction of Singapore Exchange Limited (SGX)
  * Business Analytics: Study of factors influencing subscription to Uber Eats membership
- * Career Column: Co-founder of FLA digital creative, Yu-Hu (WAWA)
+ * Career Column: Co-founder of FLA digital creative, Yu-Hu (WAWA) -->
 
 ## Leaderships  
 **Vice President of Finance & Legality Department, AIESEC in NTPU**, Jan. 2022 - Mar. 2023
@@ -89,6 +89,11 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+
+## Projects
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
 
