@@ -5,7 +5,7 @@ permalink: /projects/Career
 excerpt_separator: <!--more-->
 toc: true
 
-paperurl: 'http://hsinyulin118.github.io/files/廣告專訪.pdf'
+paperurl: 'http://hsinyulin118.github.io/files/Career-Column.pdf'
 course: N/A
 ---
 
@@ -21,7 +21,7 @@ date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
 * Author: Hsin-Yu Lin
-* The content involved in-depth discussions with industry experts, providing insights into advertising careers and strategies[Click me](http://hsinyulin118.github.io/files/廣告專訪.pdf)
+* The content involved in-depth discussions with industry experts, providing insights into advertising careers and strategies[Click me](http://hsinyulin118.github.io/files/Career-Column.pdf)
 
 <!--more-->
 

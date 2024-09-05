@@ -5,7 +5,7 @@ permalink: /projects/Case
 excerpt_separator: <!--more-->
 toc: true
 
-paperurl: 'http://hsinyulin118.github.io/files/金融法規.pdf'
+paperurl: 'http://hsinyulin118.github.io/files/Case.pdf'
 course: Banking Law
 ---
 
@@ -22,7 +22,7 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 * Analyzed the impact of the acquisition on the stock prices of both parties.
-* Analyzed the applicable financial regulations in the litigation process.[Click me](http://hsinyulin118.github.io/files/金融法規.pdf)
+* Analyzed the applicable financial regulations in the litigation process.[Click me](http://hsinyulin118.github.io/files/Case.pdf)
 <!--more-->
 
 <!-- [More information here]() -->

@@ -5,7 +5,7 @@ permalink: /projects/financial
 excerpt_separator: <!--more-->
 toc: true
 
-paperurl: 'http://hsinyulin118.github.io/files/綠界科技.pdf'
+paperurl: 'http://hsinyulin118.github.io/files/Financial.pdf'
 course: Financial Statement Analysis
 ---
 
@@ -22,7 +22,7 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 * Analyzed ECPay’s financial statement through static analysis and dynamic analysis.
-* Examined ECPay’s important accounting policies, e.g., compilation basis, significant accounting policies, and key audit matters.[Click me](http://hsinyulin118.github.io/files/綠界科技.pdf)
+* Examined ECPay’s important accounting policies, e.g., compilation basis, significant accounting policies, and key audit matters.[Click me](http://hsinyulin118.github.io/files/Financial.pdf)
 <!--more-->
 
 <!-- [More information here]() -->

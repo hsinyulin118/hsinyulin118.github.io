@@ -5,7 +5,7 @@ permalink: /projects/the_effect
 excerpt_separator: <!--more-->
 toc: true
 
-paperurl: 'http://hsinyulin118.github.io/files/行為財務期末報告.pdf'
+paperurl: 'http://hsinyulin118.github.io/files/Effects.pdf'
 course: Seminar on Behavioral Finance
 ---
 
@@ -23,7 +23,7 @@ location: "National Taiwan University, Taiwan"
 
 * Analyzed the impact of the Russia-Ukraine war on the Federal Reserve's interest rate decisions.
 * Interpreted investor behavior during interest rate changes via Prospect Theory.
-* Evaluated the change in housing market, stock market, and bond market of Taiwan during interest rate changes.[Click me](http://hsinyulin118.github.io/files/行為財務期末報告.pdf)
+* Evaluated the change in housing market, stock market, and bond market of Taiwan during interest rate changes.[Click me](http://hsinyulin118.github.io/files/Effects.pdf)
 
 <!--more-->
 
