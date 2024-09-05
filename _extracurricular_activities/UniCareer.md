@@ -26,7 +26,6 @@ location: "National Taiwan University, Taiwan"
 
 <!--more-->
 ![Certificate](/images/page-0002.jpg){:style="width:100%; max-width:600px;"}
-
 ![Picture](/images/0127.jpg){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
 
