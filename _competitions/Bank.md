@@ -17,7 +17,7 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-![Certificate](hsinyulin118.github.io/images/peakz.jpg)
+![Certificate](/images/peakz.jpg)
 
 * Proposed innovative concepts, e.g., multiple accounts, shared account, and carbon account, to enhance customer stickiness to the bank app and increase the cash flow of the bank.
 * Developed expertise in cost analysis, market analysis, customer insights, and marketing strategies.
