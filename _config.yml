@@ -181,6 +181,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  tests:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
