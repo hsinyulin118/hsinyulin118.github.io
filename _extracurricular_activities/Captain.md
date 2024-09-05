@@ -4,8 +4,6 @@ date: 2023-06-30
 permalink: /extracurricular_activities/Captain
 excerpt_separator: <!--more-->
 toc: true
-
-
 ---
 
 
