@@ -184,7 +184,7 @@ collections:
   competition:
     output: true
     permalink: /:collection/:path/
-  extracurricular activities:
+  activities:
     output: true
     permalink: /:collection/:path/
 

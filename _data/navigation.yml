@@ -7,8 +7,11 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Tests"
-    url: /tests/
+  - title: "Competition"
+    url: /competition/
+
+  - title: "Activities"
+    url: /activities/
 
   # - title: "Talks"
   #   url: /talks/    
