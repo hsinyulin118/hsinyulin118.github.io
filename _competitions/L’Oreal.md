@@ -24,7 +24,7 @@ location: "National Taiwan University, Taiwan"
 * Developed user interface and performed market positioning to enhance user experience.
 
 <!--more-->
-![Certificate](/images/batch1_413.jpg){:style="width:100%; max-width:600px;"}
+
 <!-- [More information here]() -->
 
 
