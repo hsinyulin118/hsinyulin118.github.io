@@ -1,7 +1,7 @@
 ---
 title: "3 Weeks at English Language Center: Los Angeles"
 date: 2023-07-21
-permalink: /extracurricular-activities/English
+permalink: /extracurricular_activities/English
 excerpt_separator: <!--more-->
 toc: true
 
@@ -18,6 +18,8 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
+
+
 * Period: 2023.07.03 - 2023.07.21
 * Course Level: Advanced
 
