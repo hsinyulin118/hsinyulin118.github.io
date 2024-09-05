@@ -18,13 +18,13 @@ venue: "Electronic Design Automation Lab (Prof. Yao-Wen Chang)"
 date: 2019-11-01
 location: "National Taiwan University, Taiwan"
 --- -->
-![Certificate](/images/batch1_413.jpg){:style="width:100%; max-width:600px;"}
+
 
 * Designed a hair styling app, featuring hairstyle design and hair dyeing condition and fade forecastor, to reinvent the future of professional beauty through tech.
 * Developed user interface and performed market positioning to enhance user experience.
 
 <!--more-->
-
+![Certificate](/images/batch1_413.jpg){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
 
 
