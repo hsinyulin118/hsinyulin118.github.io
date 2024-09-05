@@ -1,7 +1,7 @@
 ---
 title: "UniCareer: Unilever Brand Marketing Workshop."
 date: 2024-01-27
-permalink: /extracurricular-activities/UniCareer
+permalink: /extracurricular_activities/UniCareer
 excerpt_separator: <!--more-->
 toc: true
 

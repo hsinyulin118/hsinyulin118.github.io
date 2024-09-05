@@ -1,7 +1,7 @@
 ---
 title: "Professional lectures: Secret of Advertisement"
 date: 2023-03-21
-permalink: /extracurricular-activities/Professional
+permalink: /extracurricular_activities/Professional
 excerpt_separator: <!--more-->
 toc: true
 

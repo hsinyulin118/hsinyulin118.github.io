@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Lecture: How to be a YouTuber?"
 date: 2022-04-28
-permalink: /extracurricular-activities/Celebrity
+permalink: /extracurricular_activities/Celebrity
 excerpt_separator: <!--more-->
 toc: true
 

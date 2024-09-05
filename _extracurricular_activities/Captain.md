@@ -1,9 +1,10 @@
 ---
-title: "3 Weeks at English Language Center: Los Angeles"
-date: 2023-07-21
-permalink: /extracurricular-activities/English
+title: "Captain of Girls Basketball Team, Department of Business Administration"
+date: 2023-06-30
+permalink: /extracurricular_activities/Captain
 excerpt_separator: <!--more-->
 toc: true
+
 
 ---
 
@@ -20,15 +21,12 @@ location: "National Taiwan University, Taiwan"
 --- -->
 
 
-* Period: 2023.07.03 - 2023.07.21
-* Course Level: Advanced
+* Period: 2022.03.01 - 2023.06.30
+* Led a team of 10+ athletes to success, securing two gold medals and one bronze medal in School-level competition.
 
 <!--more-->
-![Certificate](/images/page-0001.jpg){:style="width:100%; max-width:600px;"}
-
-![Picture](/images/IMG_8993.jpeg){:style="width:100%; max-width:600px;"}
+![Picture](/images/IMG_7900.jpg){:style="width:100%; max-width:600px;"}
 <!-- [More information here]() -->
-
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "2022 AIESEC in TAIWAN AIESEC Party"
 date: 2022-04-22
-permalink: /extracurricular-activities/Party
+permalink: /extracurricular_activities/Party
 excerpt_separator: <!--more-->
 toc: true
 

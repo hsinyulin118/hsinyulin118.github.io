@@ -11,7 +11,7 @@ main:
     url: /competitions/
 
   - title: "Extracurricular Activities"
-    url: /extracurricular-activities/
+    url: /extracurricular_activities/
 
   # - title: "Talks"
   #   url: /talks/    
