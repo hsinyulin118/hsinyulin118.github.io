@@ -18,7 +18,7 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
 ## Education
 **National Taipei University, Taiwan**,  Sep. 2021 - Present
 
-*B.S. in Business Administration*
+*Bachelor of Business Administration*
 * Overall GPA: 3.8/4.0
 * **Related Course**: Investments, Financial Management, Money and Banking,  Macroeconomics, Banking Law, Options, Futures and Other Derivatives
 
