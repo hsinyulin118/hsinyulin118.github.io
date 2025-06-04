@@ -16,7 +16,11 @@ In my second year, I served as Vice President of Finance and Legality at AIESEC 
 
 <!-- [PDF](/files/CHENCHIA_CV.pdf){: .btn} -->
 ## Education
-**National Taipei University, Taiwan**,  Sep. 2021 - Present
+**New York University**, May 2025 - Present
+*Master of Quantitative Finance*
+* **Related Course**: Corporate Finance, Stochastic Modeling and Simulation, Advanced Portfolio Management, Volatility Modeling
+
+**National Taipei University, Taiwan**,  Sep. 2021 - Jun. 2025
 
 *Bachelor of Business Administration*
 * Overall GPA: 3.8/4.0
