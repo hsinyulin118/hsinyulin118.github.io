@@ -9,10 +9,11 @@ redirect_from:
 ---
 This is Hsin-Yu's home on the web.
 
-I am a college student currently pursuing a degree in Business Administration with a minor in Accounting at National Taipei University (NTPU).
+I’m  a Master’s student in Quantitative Finance at New York University. I earned my Bachelor’s degree in Business Administration with a minor in Accounting from National Taipei University in 2025.
 
-In my second year, I served as Vice President of Finance and Legality at AIESEC in NTPU, where I developed leadership, problem-solving, and data analysis skills, alongside hands-on experience in accounting and risk management. This role ignited my passion for financial management and risk assessment, motivating me to further explore and deepen my expertise as I build a solid foundation in the financial industry.
+I’m passionate about financial management, risk assessment, and uncovering insights through data-driven analysis. Currently, I’m expanding my expertise in finance through advanced coursework and hands-on experience, aiming to contribute meaningfully to the financial industry.
 
+---
 
 <!-- [PDF](/files/CHENCHIA_CV.pdf){: .btn} -->
 ## Education
