@@ -86,7 +86,7 @@ I’m passionate about financial management, risk assessment, and uncovering ins
 
 ## Skills
 * Programming languages
-  * Python, MATLAB, GitHub
+  * Python, R, MATLAB, GitHub
 * Data Analysis Toolkits 
   * Numpy, Pandas, Matplotlib, Seaborn, Statsmodels
 * Excel 
