@@ -37,6 +37,11 @@ I’m passionate about financial management, risk assessment, and uncovering ins
 * Participated in Entrepreneurial Communication and Introductory Psychology.
 
 ## Work experience
+**Corporate Banking Sales Assistant, CTBC Bank Co., Ltd.**, Feb. 2025 - May 2025
+* Assist corporate banking relationship managers with various business document tasks.
+* Handle account opening, periodic review, and other AML/KYC documentation tasks.
+
+
 **Financial Audit Intern, PwC Taiwan**, Jan. 2024 - Feb. 2024
 * Prepared and reviewed audit documentation, ensuring thoroughness and adherence to PwC's quality standards.
 * Supported the audit team in analyzing financial statements and identifying potential discrepancies or areas of risk.
