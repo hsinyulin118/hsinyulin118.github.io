@@ -37,7 +37,7 @@ I’m passionate about financial management, risk assessment, and uncovering ins
 * Participated in Entrepreneurial Communication and Introductory Psychology.
 
 ## Work experience
-**Corporate Banking Sales Assistant, CTBC Bank Co., Ltd.**, Feb. 2025 - May 2025
+**Corporate Banking Sales Assistant Intern, CTBC Bank Co., Ltd.**, Feb. 2025 - May 2025
 * Assist corporate banking relationship managers with various business document tasks.
 * Handle account opening, periodic review, and other AML/KYC documentation tasks.
 
