@@ -19,7 +19,7 @@ I’m passionate about financial management, risk assessment, and uncovering ins
 ## Education
 **New York University**, May 2025 - Present
 *Master of Quantitative Finance*
-* **Related Course**: Corporate Finance, Stochastic Modeling and Simulation, Advanced Portfolio Management, Volatility Modeling
+* **Related Course**: Corporate Finance, Stochastic Modeling and Simulation, Debt Instrument and Markets
 
 **National Taipei University, Taiwan**,  Sep. 2021 - Jun. 2025
 
@@ -86,7 +86,7 @@ I’m passionate about financial management, risk assessment, and uncovering ins
 
 ## Skills
 * Programming languages
-  * Python, R, MATLAB, GitHub
+  * Python, R, GitHub
 * Data Analysis Toolkits 
   * Numpy, Pandas, Matplotlib, Seaborn, Statsmodels
 * Excel 
