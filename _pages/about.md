@@ -18,6 +18,7 @@ I’m passionate about financial management, risk assessment, and uncovering ins
 <!-- [PDF](/files/CHENCHIA_CV.pdf){: .btn} -->
 ## Education
 **New York University**, May 2025 - Present
+
 *Master in Quantitative Finance*
 * **Related Course**: Corporate Finance, Stochastic Modeling and Simulation, Debt Instrument and Markets
 
