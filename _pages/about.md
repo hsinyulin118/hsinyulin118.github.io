@@ -9,18 +9,19 @@ redirect_from:
 ---
 This is Hsin-Yu's home on the web.
 
-I’m  a Master’s student in Quantitative Finance at New York University. I earned my Bachelor’s degree in Business Administration with a minor in Accounting from National Taipei University in 2025.
+Hi, I'm Hsin-Yu Lin, a recent graduate of the Master of Science in Quantitative Finance program at New York University. I also hold a Bachelor's degree in Business Administration with a minor in Accounting from National Taipei University.
 
-I’m passionate about financial management, risk assessment, and uncovering insights through data-driven analysis. Currently, I’m expanding my expertise in finance through advanced coursework and hands-on experience, aiming to contribute meaningfully to the financial industry.
+With a strong academic foundation in finance, business, and accounting, I have developed a keen interest in financial management, risk assessment, and data-driven decision-making. I enjoy applying quantitative analysis to uncover meaningful insights, evaluate financial risks, and support strategic business decisions. I am motivated by opportunities to solve complex financial problems and turn data into actionable insights.
 
 ---
 
 <!-- [PDF](/files/CHENCHIA_CV.pdf){: .btn} -->
 ## Education
-**New York University**, May 2025 - Present
+**New York University**, May 2025 - May 2026
 
 *Master in Quantitative Finance*
-* **Related Course**: Corporate Finance, Stochastic Modeling and Simulation, Debt Instrument and Markets
+* Overall GPA: 3.4/4.0
+* **Related Course**: Corporate Finance, Stochastic Modeling and Simulation, Advanced Portfolio Management, Volatility Modeling
 
 **National Taipei University, Taiwan**,  Sep. 2021 - Jun. 2025
 
