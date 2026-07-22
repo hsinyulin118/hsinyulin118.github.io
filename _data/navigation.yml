@@ -13,6 +13,10 @@ main:
   - title: "Extracurricular Activities"
     url: /extracurricular_activities/
 
+  - title: "Certificates"
+    url: /certificates/
+  
+
   # - title: "Talks"
   #   url: /talks/    
 
