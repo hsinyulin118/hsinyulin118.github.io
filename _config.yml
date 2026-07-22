@@ -187,6 +187,9 @@ collections:
   extracurricular_activities:
     output: true
     permalink: /:collection/:path/
+  certificates:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
