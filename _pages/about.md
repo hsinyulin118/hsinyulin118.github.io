@@ -87,8 +87,8 @@ With a strong academic foundation in finance, business, and accounting, I have d
 * Led a team of 10+ athletes to success, securing two gold medals and one bronze medal in School-level competition.
 
 ## Skills
-* Programming languages
-  * Python, R, GitHub
+* Programming Languages and Tools
+  * Python, R, GitHub, Power BI
 * Data Analysis Toolkits 
   * Numpy, Pandas, Matplotlib, Seaborn, Statsmodels
 * Excel 
