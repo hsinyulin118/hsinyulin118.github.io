@@ -4,8 +4,6 @@ date: 2023-12-22
 permalink: /competitions/Bank
 excerpt_separator: <!--more-->
 toc: true
-
-paperurl: 'http://hsinyulin118.github.io/files/bank_final.pdf'
 ---
 
 
