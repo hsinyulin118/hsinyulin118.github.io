@@ -15,6 +15,10 @@ main:
 
   - title: "Certificates"
     url: /certificates/
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 524c6e73197ede3605899a95987a97a7787fa1ca
 
   # - title: "Talks"
   #   url: /talks/    
