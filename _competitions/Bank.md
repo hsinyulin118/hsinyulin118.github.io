@@ -4,6 +4,8 @@ date: 2023-12-22
 permalink: /competitions/Bank
 excerpt_separator: <!--more-->
 toc: true
+
+paperurl: 'http://hsinyulin118.github.io/files/bank_final.pdf'
 ---
 
 
@@ -26,6 +28,8 @@ location: "National Taiwan University, Taiwan"
 ![Certificate](/images/test.jpg){:style="width:100%; max-width:600px;"}
 
 ![Picture](/images/picture_peakz.jpg){:style="width:100%; max-width:600px;"}
+
+[Click me](http://hsinyulin118.github.io/files/bank_final.pdf)
 <!-- [More information here]() -->
 
 
